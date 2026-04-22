@@ -58,8 +58,8 @@ To reproduce this analysis locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone [your-repo-url]
-   cd [repo-name]
+   git clone https://github.com/gygyy815/acc102-cpi-inflation-analysis.git
+   cd acc102-cpi-inflation-analysis
    ```
 
 2. **Install dependencies**:
