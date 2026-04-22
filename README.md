@@ -1,6 +1,3 @@
-这是根据你的CPI通胀分析项目和ACC102课程要求定制的**完整README.md文件**。你只需要将方括号 `[]` 中的内容替换为你的实际信息即可。
-
-```markdown
 # US CPI Inflation Trend Analysis (2010-2023)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
